@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*
 from ConfigParser import ConfigParser
 from collections import OrderedDict
 import argparse
